@@ -1,2 +1,2 @@
 # PatikaNETCore
-A book store project development step by step
+Developing step by step .NET project for learning
